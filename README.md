@@ -1,5 +1,8 @@
 # Passwords-Strength-evaluation
 Understanding what makes a password strong and test it against password strength tools.
+
+*{!!Watch this readme file in code format for better tabular explanation!!}*
+ 
  **Password Strength Evaluation & Security Analysis**
 
 This project demonstrates the process of generating, testing, and analyzing passwords of varying complexity to understand best practices for secure password creation and how complexity defends against common cyberattacks.
